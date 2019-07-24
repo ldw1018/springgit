@@ -11,5 +11,6 @@ public class UserController {
         System.out.println("1111");
         System.out.println("master");
         System.out.println("dev");
+        System.out.println("liuhaixin controller");
     }
 }
